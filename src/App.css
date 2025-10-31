@@ -2,7 +2,8 @@
   text-align: center;
   border: solid #F9B487 2px;
   width: 400px;
-  height: 500px;
+  min-height: 500px;
+
   margin: auto;
   background-color: #F5E5E1;
   margin-top: 100px;

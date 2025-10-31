@@ -1,7 +1,7 @@
-import logo from './logo.svg';
 import './App.css';
 import Input from './components/input/input';
 import TodoList from './components/todo-list/todo-list';
+
 
 
 function App() {
@@ -10,6 +10,7 @@ function App() {
     <div className="App">
       <Input/>
       <TodoList/>
+      
       
     </div>
   );
