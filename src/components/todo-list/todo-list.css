@@ -1,0 +1,9 @@
+.todo-list-container{
+    display: flex;
+    background-color: #F9B487;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    border-radius: 10px;
+    
+}
