@@ -4,6 +4,27 @@
     background-color: #F5E5E1 ;
     box-shadow: 0px 0px 12px 5px rgba(0, 0, 0, 0.2);
     border-radius: 5px;
+    position: relative;
     
     
+}
+
+.button{
+    border-radius: 50%;
+    position: absolute;
+    left: -15px;
+    border: 0;
+}
+
+.button.x {
+    background-color: red;
+    top: -10px;
+    color: white;
+}
+
+.button.o {
+    background-color: green;
+    top: -10px;
+    color: white;
+    left: 10px;
 }
