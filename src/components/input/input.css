@@ -1,0 +1,28 @@
+.input-container {
+display: flex;
+justify-content: space-between;
+padding: 15px
+}
+
+.input{
+    width: 70%;
+height: 30px;
+border-radius: 10px;
+margin-right: 20px;
+background-color: white;
+color: #427A76;
+border: 2px #174143;
+padding: 0 20px 0 20px;
+}
+
+.submit{
+    width: 30%;
+    border-radius: 10px;
+    background-color: #427A76;
+color: white;
+border: 2px #174143;
+}
+.input::placeholder {
+    text-align: center;
+    color: #427A76;
+}
